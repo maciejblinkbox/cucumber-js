@@ -1,5 +1,4 @@
-# Cucumber.js [![Build Status](https://secure.travis-ci.org/cucumber/cucumber-js.png?branch=master)](http://travis-ci.org/cucumber/cucumber-js)
-
+# Cucumber.js [![Build Status](https://secure.travis-ci.org/maciejblinkbox/cucumber-js.png?branch=master)](http://travis-ci.org/maciejblinkbox/cucumber-js)
 *Cucumber*, the [popular Behaviour-Driven Development tool](http://cukes.info), brought to your JavaScript stack.
 
 It runs on both Node.js and *modern* web browsers.
