@@ -21,6 +21,4 @@ matrix:
 
 notifications:
   email:
-    - jb@jbpros.com
-  irc:
-    - "irc.freenode.org#cucumber"
+    - maciej@blinkbox.com
